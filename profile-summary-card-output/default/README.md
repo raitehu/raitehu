@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/raitehu/raitehu/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
